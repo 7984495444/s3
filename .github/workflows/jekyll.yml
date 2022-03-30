@@ -1,6 +1,6 @@
 name: Upload Website
 
-on:
+runs-on: self-hosted:
   push:
     branches:
     - main
